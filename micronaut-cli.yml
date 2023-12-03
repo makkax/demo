@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, assertj, flyway, hibernate-reactive-jpa, http-client, jackson-databind, java, java-application, jdbc-hikari, junit, kubernetes-reactor-client, logback, lombok, maven, maven-enforcer-plugin, micronaut-aop, micronaut-aot, micronaut-http-validation, mockito, mongo-reactive, neo4j-bolt, netty-server, openapi, postgres, properties, reactor, reactor-http-client, readme, shade, swagger-ui, test-resources]
